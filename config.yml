@@ -18,20 +18,25 @@ DefaultContentLanguage: ru
 ############################################################
 
 params:
+  groups:
+    - Discord
   systems:
-    - name: Discord
+    - name: Сервер
       description: Наш Discord сервер
       link: https://discord.gg/r6ru
+      group: Discord
     - name: Регистрация
       description: Регистрация на сервере
+      group: Discord
     - name: Лобби
       description: Система лобби на сервере
+      group: Discord
     - name: Сайт
       description: Наш сайт со всей информацией
       link: https://rainbow6.ru/
-    - name: Сайт
-      description: Наш сайт со всей информацией
-      link: https://rainbow6.ru/
+    - name: Rainbow Six Siege
+      description: Статус Осады
+      link: https://rainbow6.ubisoft.com/status/
 
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
