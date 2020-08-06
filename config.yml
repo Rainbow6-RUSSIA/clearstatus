@@ -21,15 +21,15 @@ params:
   groups:
     - Discord
   systems:
-    - name: Сервер
-      description: Наш Discord сервер
-      link: https://discord.gg/r6ru
+    - name: Наш Сервер
+      description: Статус Discord
+      link: https://status.discord.com/
       group: Discord
     - name: Регистрация
-      description: Регистрация на сервере
+      description: Регистрация на Сервере
       group: Discord
     - name: Лобби
-      description: Система лобби на сервере
+      description: Система лобби на Сервере
       group: Discord
     - name: Сайт
       description: Наш сайт со всей информацией
