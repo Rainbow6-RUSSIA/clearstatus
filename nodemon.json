@@ -1,0 +1,14 @@
+{
+    "restartable": "rs",
+    "ignore": [
+      ".git",
+      "public",
+      "resources"
+    ],
+    "events": {
+        "start": "hugo",
+        "restart": "hugo"
+    },
+    "watch": ["*"],
+    "ext": "*"
+}
