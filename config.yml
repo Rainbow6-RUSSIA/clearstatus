@@ -34,9 +34,11 @@ params:
     - name: Сайт
       description: Наш сайт со всей информацией
       link: https://rainbow6.ru/
+      group: 
     - name: Rainbow Six Siege
       description: Статус Осады
       link: https://rainbow6.ubisoft.com/status/
+      group: Discord
 
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
@@ -59,7 +61,7 @@ params:
   # Descriptions
   meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
   description_footer: "<a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://rainbow6.ru/'>Rainbow6-RUSSIA</a> - это более 40 тысяч игроков на крупнейшем сервере по Осаде в России и СНГ."
-  description_header: "Информация о статусе сервисов <a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://rainbow6.ru/'>Rainbow6-RUSSIA</a> и др."
+  description_header: "Информация о статусе сервисов <a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://rainbow6.ru/'>Rainbow6-RUSSIA</a> и др.<br>Самом технологичном сервере по Осаде™"
 
   copyrightHolder: "Rainbow6-RUSSIA"
 

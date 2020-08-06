@@ -31,8 +31,8 @@ resolved_on: 2019-03-30 20:45:19
 
 # Affected components, must use exact names defined in site config
 affected:
-  - Site
-  - Helpdesk
+  - Регистрация
+  - Лобби
 
 # If set and the status is in_progress, this feed will be embedded
 # in the event display. Leave empty for no Twitter feed.
