@@ -6,7 +6,7 @@
 title: Статус Rainbow6-RUSSIA
 
 # Language config
-DefaultContentLanguage: ru
+DefaultContentLanguage: en
 
 ############################################################
 ## More default config. in /config/_default/config.yml
@@ -34,11 +34,11 @@ params:
     - name: Сайт
       description: Наш сайт со всей информацией
       link: https://rainbow6.ru/
-      group: 
+      group:
     - name: Rainbow Six Siege
       description: Статус Осады
       link: https://rainbow6.ubisoft.com/status/
-      group: Discord
+      group:
 
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
