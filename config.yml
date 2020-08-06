@@ -59,7 +59,7 @@ params:
   iconType: "image/png"
 
   # Descriptions
-  meta_description: "На этой странице представлена свежая информация о работе наших и др. систем, инцидентах и запланированных работах."
+  meta_description: "На этой странице представлена свежая информация о статусе наших и др. систем, инцидентах и запланированных работах."
   description_footer: "<a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://discord.gg/r6ru'>Rainbow6-RUSSIA</a> - это более 40 тысяч игроков на крупнейшем сервере по Осаде в России и СНГ."
   description_header: "Информация о статусе сервисов <a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://discord.gg/r6ru'>Rainbow6-RUSSIA</a> и др.<br />Подпишитесь по <a class='text-grey-darkest' href='%s' >RSS</a>, чтобы быть в курсе событий."
 
