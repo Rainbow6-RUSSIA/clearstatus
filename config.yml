@@ -6,7 +6,7 @@
 title: Статус Rainbow6-RUSSIA
 
 # Language config
-DefaultContentLanguage: en
+DefaultContentLanguage: ru
 
 ############################################################
 ## More default config. in /config/_default/config.yml
@@ -59,9 +59,9 @@ params:
   iconType: "image/png"
 
   # Descriptions
-  meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
-  description_footer: "<a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://rainbow6.ru/'>Rainbow6-RUSSIA</a> - это более 40 тысяч игроков на крупнейшем сервере по Осаде в России и СНГ."
-  description_header: "Информация о статусе сервисов <a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://rainbow6.ru/'>Rainbow6-RUSSIA</a> и др.<br>Самом технологичном сервере по Осаде™"
+  meta_description: "На этой странице представлена свежая информация о работе наших и др. систем, инцидентах и запланированных работах."
+  description_footer: "<a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://discord.gg/r6ru'>Rainbow6-RUSSIA</a> - это более 40 тысяч игроков на крупнейшем сервере по Осаде в России и СНГ."
+  description_header: "Информация о статусе сервисов <a class='text-grey-darkest' title='Посетите Rainbow6-RUSSIA' href='https://discord.gg/r6ru'>Rainbow6-RUSSIA</a> и др.<br />Подпишитесь по <a class='text-grey-darkest' href='%s' >RSS</a>, чтобы быть в курсе событий."
 
   copyrightHolder: "Rainbow6-RUSSIA"
 

@@ -3,7 +3,7 @@
 ############################################################
 
 ## Source for CSS
-enablePostCSSProcessing: false
+enablePostCSSProcessing: true
 fullCSSSourceFile: "css/src/styles.css"
 fullCSSDistFile: "css/dist/styles.css"
 postCSSConfigFolder: "themes/clearstatustheme"
