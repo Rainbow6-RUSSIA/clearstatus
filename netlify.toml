@@ -2,6 +2,9 @@
 command = "git submodule foreach git pull origin master && npm install && hugo --minify"
 publish = "public"
 
+[build.environment]
+TZ = "Europe/Moscow"
+
 [context.production.environment]
 HUGO_ENV = "production"
 NODE_ENV = "production"
